@@ -1,2 +1,3 @@
 this is a file named newfile
 this line edited by master
+this line edited by testbr
